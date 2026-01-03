@@ -1,3 +1,12 @@
+#admiral
+
+*.admiral.com
+*.getadmiral.com
+*.fandom.com
+cdn.getadmiral.com
+delivery.getadmiral.com
+
+
 #Reddit
 pihole --white-regex [a-z]\.thumbs\.redditmedia\.com
 pihole --white-regex (\.|^)redd\.it$
